@@ -1,25 +1,23 @@
-# BasesTestPy
-Bases test in python.
-
-About this project:
+#BasesTestPy
 ------------------------------------------------------------
 My aim for this project was to make a bases test generator
 that can use the parameters set by the user in the settings
 file. The test has 3 different types of questions which it 
 can generate and verify. The three types of questions are 
-as follows: 
+as follows:
+
 1) base 10 -> random base 
 2) random base -> base 10
 3) random base -> random base 
 
-
 The user is able to change the following parameters as
 they wish: (from within the settings file)
-*highest and lowest numbers they can be asked to convert to and from; 
-*points you can achieve or lose per question; 
-*the bases you can be asked to convert from; 
-*the characters/symbols used in the conversion 
-*the number of questions you get asked.
+
+* highest and lowest numbers they can be asked to convert to and from; 
+* points you can achieve or lose per question; 
+* the bases you can be asked to convert from; 
+* the characters/symbols used in the conversion 
+* the number of questions you get asked.
 
 !If you wish for a more constrained set of bases to be 
 tested on such as the fun conversions between bases 2,8 
@@ -31,9 +29,10 @@ for every test they complete. The download includes a zip
 consisting of two python files: settings.py and baseTest.py. 
 
 
-Example of output
+#Example of output:
 ------------------------------------------------------------
-```Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)] on win32
+```
+Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)] on win32
 ...
 Bases Test 1
 You'll have 8 questions to answer, current bases pool you could be asked to convert from is [2, 3, 4, 5, 6, 7, 8, 9, 16].
@@ -76,8 +75,9 @@ You will get 1 points deducted for every wrong answer.
 (You can change these settings from within the settings file.)
 
 Start test (y/n)? n
-Test end.```
-------------------------------------------------------------
+Test end.
+```
+
 
 
 
