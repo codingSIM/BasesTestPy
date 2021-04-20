@@ -19,7 +19,7 @@ they wish: (from within the settings file)
 * the characters/symbols used in the conversion 
 * the number of questions you get asked.
 
-!If you wish for a more constrained set of bases to be 
+! If you wish for a more constrained set of bases to be 
 tested on such as the fun conversions between bases 2,8 
 and 16 you can change the bases array inside settings.py 
 so it only contains the ones you wish to be tested on.
@@ -29,7 +29,7 @@ for every test they complete. The download includes a zip
 consisting of two python files: settings.py and baseTest.py. 
 
 
-Example of output:
+Sample execution:
 ------------------------------------------------------------
 ```
 Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)] on win32
