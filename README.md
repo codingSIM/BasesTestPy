@@ -31,7 +31,7 @@ consisting of two python files: settings.py and baseTest.py.
 
 Sample execution:
 ------------------------------------------------------------
-```py
+```
 Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)] on win32
 ...
 Bases Test 1
